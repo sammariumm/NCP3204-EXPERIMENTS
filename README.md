@@ -1,2 +1,5 @@
 # NCP3204-EXPERIMENTS
-A collection of write-ups for NCP3204: Computer Network Design Laboratory
+Write-ups for all the experiments I've done in NCP3204.
+
+## Contents
+- Experiment 9: HRSP Load Balancing
